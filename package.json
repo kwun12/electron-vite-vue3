@@ -24,7 +24,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/node": "^18.11.18",
     "@vitejs/plugin-vue": "^4.0.0",
     "electron": "^22.0.0",
     "electron-builder": "^23.6.0",

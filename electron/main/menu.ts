@@ -24,7 +24,7 @@ const template: any[] = [
     : []),
   // { role: 'fileMenu' }
   {
-    label: "文件",
+    label: "File",
     submenu: [isMac ? { role: "close" } : { role: "quit" }],
   },
   // { role: 'editMenu' }
